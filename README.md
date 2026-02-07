@@ -102,4 +102,6 @@ Since the body consists of a single statement, and that statement isn't a more c
 public[1] int[3] Sum[4] (int num1, int num2)[5] => return num1 + num2;[6]
 ```
 
+***
+
 <small><img src="CaptainBlasterMini.png" width="30" height="30"> Students, reach out to Jester if you have any further questions about this project. Happy coding!</small>
