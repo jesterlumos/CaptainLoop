@@ -48,7 +48,7 @@ This repository is built from a valid Unity project. Unity Hub only needs these 
 4. Navigate to the "Projects" section, and use the Add > Add Project from Disk option to add the project to Unity Hub.
 5. Click on the project in your Projects list to open it in Unity Editor and test it.
 
-<img src=">https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fdocs.github.com%2Fen%2Frepositories%2Fworking-with-files%2Fusing-files%2Fdownloading-source-code-archives&ved=0CBYQjRxqFwoTCPDZw53ox5IDFQAAAAAdAAAAABA9&opi=89978449">
+![Screenshot of Code button](https://docs.github.com/assets/cb-13128/mw-1440/images/help/repository/code-button.webp)
 
 ## Contributing
 If you are familiar with GitHub and with the open source, and you see something in this example project which could be improved, feel free to open a pull request. I make no guarantee that I will see or merge it, and students are NOT REQUIRED to contribute. This project exists as a resource for you, not a graded assignment. I will not be providing assistance with contributing to this project if you are not familiar with the process.
