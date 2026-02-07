@@ -1,5 +1,5 @@
 <h1 align="center">Captain Loop</h1>
-<p align="center"><strong>Captain Blaster With Respawn Loop</strong>  
+<p align="center"><strong>Captain Blaster With Respawn Loop</strong>\
 Needs: 1 script, 43 lines</p>
 <div align="center"><img src="demo.mp4"></div>
 
