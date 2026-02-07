@@ -61,7 +61,9 @@ On **lines 3 and 4**, the following code can be found which utilizes the \[Requi
 [RequireComponent(typeof(Rigidbody2D))]
 [RequireComponent(typeof(PolygonCollider2D))]
 ```
-This attribute takes a type as a parameter (which we can feed in via typeof()) and tells Unity to always keep the given component on this GameObject. When you attach this script to a GameObject with no RigidBody2D or no PolygonCollider2D, Unity will automatically attach them for you. It also prevents you from accidentally removing the component, and gives a warning that you have used the \[RequireComponent\] attribute. Anytime we use GetComponent() via the scripting API, it is best practice to use \[RequireComponent\] so that the component is never null. If you no longer require the component in your script, make sure to also remove this attribute, or you will be forced to use unnecessary components. 
+This attribute takes a type as a parameter (which we can feed in via typeof()) and tells Unity to always keep the given component on this GameObject. When you attach this script to a GameObject with no RigidBody2D or no PolygonCollider2D, Unity will automatically attach them for you. 
+
+It also prevents you from accidentally removing the component, and gives a warning that you have used the \[RequireComponent\] attribute. Anytime we use GetComponent() via the scripting API, it is best practice to use \[RequireComponent\] so that the component is never null. If you no longer require the component in your script, make sure to also remove this attribute, or you will be forced to use unnecessary components. 
 
 ***
 
@@ -69,7 +71,7 @@ On **line 11**, the following code uses the \[Header\] attribute:
 ```cs
 [Header("Respawning")]
 ```
-This attribute just addes the provided string as a header in the Inspector to keep long lists of Inspector properties organized, as seen below:
+This attribute just adds the provided string as a header in the Inspector to keep long lists of Inspector properties organized, as seen below:
 
 ![alt](HeaderAttributeScreenshot.png)
 
@@ -100,4 +102,4 @@ Since the body consists of a single statement, and that statement isn't a more c
 public[1] int[3] Sum[4] (int num1, int num2)[5] => return num1 + num2;[6]
 ```
 
-<small>Students, reach out to Jester if you have any further questions about this project. Happy coding! ![Mini Captain Blaster Icon](CaptainBlasterMini.png)</small>
+<small>Students, reach out to Jester if you have any further questions about this project. Happy coding! <img src="CaptainBlasterMini.png" width="12" height="12"></small>
