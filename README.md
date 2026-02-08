@@ -51,7 +51,7 @@ This repository is built from a valid Unity project. Unity Hub only needs these 
 ![Screenshot of Code button](https://docs.github.com/assets/cb-13128/mw-1440/images/help/repository/code-button.webp)
 
 ## Contributing
-If you are familiar with GitHub and with the open source, and you see something in this example project which could be improved, feel free to open a pull request. I make no guarantee that I will see or merge it, and students are NOT REQUIRED to contribute. This project exists as a resource for you, not a graded assignment. I will not be providing assistance with contributing to this project if you are not familiar with the process.
+If you are familiar with GitHub and with the open source process, and you see something in this example project which could be improved, feel free to open a pull request. I make no guarantee that I will see or merge it, and students are NOT REQUIRED to contribute. This project exists as a resource for you, not a graded assignment. I will not be providing assistance with contributing to this project if you are not familiar with the process.
 
 ## Unrelated Lessons
 None of these techniques are required for this feature implementation, but they offer more efficient, more standard, or more convenient ways to accomplish certain tasks. If you want to expand your horizons or implement some more advanced conventions into your Captain Blaster project, this can be a good place to start.
