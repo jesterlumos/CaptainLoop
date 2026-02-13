@@ -19,7 +19,7 @@ public class MeteorScript : MonoBehaviour
     // This is called a "Lambda" expression. It is very powerful, but here it just replaces a simple function body. This is the same as:
         // private void Start() 
         // {
-        //     SpawnMeteor();
+        //     rigidBody.linearVelocityY = speed;
         // }
 
     // Lambda syntax doesn't work with complex logic like if statements or with multiple lines
