@@ -37,7 +37,7 @@ If you want to test this project yourself or implement a similar solution in you
 3. Neither of the variables added for this project are assigned in the script, so you will need to assign them in the Inspector and play around with their values.
 
 ## Review the Code
-Just like in your local Unity projects, the code is located at [./Assets/Scripts/](https://github.com/jesterlumos/CaptainPingPong/tree/main/Assets/Scripts). The basic textbook logic has not been updated to reflect the new Input System implementation, the singleton pattern for GameManager, or any other newer change, but the relevant logic will work along with these upgrades, and the code is heavily commented to guide you to the important parts. All new code is located in the following script files:
+Just like in your local Unity projects, the code is located at [./Assets/Scripts/](/Assets/Scripts). The basic textbook logic has not been updated to reflect the new Input System implementation, the singleton pattern for GameManager, or any other newer change, but the relevant logic will work along with these upgrades, and the code is heavily commented to guide you to the important parts. All new code is located in the following script files:
 - [PlayerController.cs](Assets/Scripts/PlayerController.cs)
 
 ## Build the Project
