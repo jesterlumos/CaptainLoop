@@ -16,7 +16,7 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D body;
     private PolygonCollider2D polygonCollider;
 
-    private readonly float screenBoundary = 8f; // It's best practice to declare variables as readonly when you don't need to change their values
+    private readonly float screenBoundary = 8f; // It's best practice to declare variables as readonly when you don't want to change their values
 
     private void Awake()
     {
